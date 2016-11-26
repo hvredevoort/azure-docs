@@ -84,3 +84,4 @@
 ## [Tools](azure-stack-tools-paas-services.md)
 ## [MSDN forum](https://social.msdn.microsoft.com/Forums/azure/en-US/home?forum=AzureStack)  
 ## [Stack Overflow](http://stackoverflow.com/questions/tagged/azure-stack)
+## [Azure Stack Wiki in OneNote](https://aka.ms/azurestackwiki)
